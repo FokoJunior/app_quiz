@@ -2,15 +2,18 @@
 
 A new Flutter project.
 
-## Getting Started
+# test_personnalite
 
-This project is a starting point for a Flutter application.
+A new Flutter project.
 
-A few resources to get you started if this is your first Flutter project:
+# Mon Projet
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Bienvenue dans mon projet dequiz ! Voici une démonstration :
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Capture d'écran
+
+[Capture d'écran de l'application]
+
+<img align="center" src="Screenshot_2025-01-13-21-48-03-581_com.example.test_personnalite.jpg" alt="foko junior" height="600" width="400" />
+<img align="center" src="Screenshot_2025-01-13-21-48-06-486_com.example.test_personnalite.jpg" alt="foko junior" height="600" width="400" />
+<img align="center" src="Screenshot_2025-01-13-21-48-11-969_com.example.test_personnalite.jpg" alt="foko junior" height="600" width="400" />
